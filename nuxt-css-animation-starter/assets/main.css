@@ -1,0 +1,56 @@
+html, body {
+  font-family: "Quicksand", "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 1 */
+  background: #222;
+  color: white;
+  width: 100vw;
+  height: 100vh;
+}
+
+a, a:visited {
+  color: #3edada;
+  text-decoration: none;
+}
+
+.container {
+  padding: 60px;
+  width: 100vw;
+  height: 100vh;
+}
+
+/* animation styles */
+
+.page-enter-active {
+  animation: acrossIn .65s ease-out both;
+} 
+
+.page-leave-active {
+  animation: acrossOut .85s ease-in both;
+} 
+
+@keyframes acrossIn {
+  0% {
+    transform: translate3d(-100%, 0, 0);
+  }
+
+  100% {
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+@keyframes acrossOut {
+  0% {
+    transform: translate3d(0, 0, 0);
+  }
+
+  100% {
+    transform: translate3d(100%, 0, 0);
+  }
+}
+
+.fadeOpacity-enter-active, .fadeOpacity-leave-active {
+  transition: opacity .35s ease-out;
+}
+
+.fadeOpacity-enter, .fadeOpacity-leave-active {
+  opacity: 0;
+}
