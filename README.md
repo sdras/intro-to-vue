@@ -23,20 +23,25 @@ For sections covering Nuxt, we will be using the directories listed in the Nuxt 
 All slides have password `!vue!`
 
 ## Collections:
+* [Vue Workshop Materials Collection](https://codepen.io/collection/noYZxW/)
 * [Vue Collection](https://codepen.io/collection/XQGkeV/)
 
 Included in this repo are some very basic starter kits. 
 
 ## VueCLI Resources
+[Vue-CLI](https://github.com/vuejs/vue-cli)
+There are directories you can use as Vue-CLI starter kits:
+* setup1
 
 ## Nuxt Resources
 [Nuxt Docs](https://nuxtjs.org/)
 
-There are three directories you can use as Nuxt starter kits:
+There are directories you can use as Nuxt starter kits:
+* setup2
 * nuxt-css-animation-starter
 * nuxt-js-animation-starter
 * nuxt-fixed-transition-modes
 
 ## Vuex Resources
-
+[Vuex docs](https://vuex.vuejs.org/en/)
 
