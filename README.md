@@ -30,7 +30,7 @@ Included in this repo are some very basic starter kits.
 
 ## VueCLI Resources
 [Vue-CLI](https://github.com/vuejs/vue-cli)
-There are directories you can use as Vue-CLI starter kits:
+There's a directory you can use as a Vue-CLI starter kit:
 * setup1
 
 ## Nuxt Resources
@@ -45,3 +45,5 @@ There are directories you can use as Nuxt starter kits:
 ## Vuex Resources
 [Vuex docs](https://vuex.vuejs.org/en/)
 
+There's a directory you can use as a Vuex starter kit:
+* vuex-example
