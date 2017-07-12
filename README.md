@@ -47,3 +47,7 @@ There are directories you can use as Nuxt starter kits:
 
 There's a directory you can use as a Vuex starter kit:
 * vuex-example
+
+Here are the directories for the Vuex exercise:
+* commentform-problem
+* commentform-solution
