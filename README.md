@@ -31,15 +31,15 @@ All slides have password `!vue!`
 Included in this repo are some very basic starter kits. 
 
 ## VueCLI Resources
-[Vue-CLI](https://github.com/vuejs/vue-cli)
-[Wine Label Maker Demo](https://github.com/sdras/vue-wine-label)
+* [Vue-CLI](https://github.com/vuejs/vue-cli)
+* [Wine Label Maker Demo](https://github.com/sdras/vue-wine-label)
 
 There's a directory you can use as a Vue-CLI starter kit:
 * setup1
 
 ## Nuxt Resources
-[Nuxt Docs](https://nuxtjs.org/)
-[Nuxt Type Demo](https://github.com/sdras/nuxt-type)
+* [Nuxt Docs](https://nuxtjs.org/)
+* [Nuxt Type Demo](https://github.com/sdras/nuxt-type)
 
 There are directories you can use as Nuxt starter kits:
 * setup2
@@ -48,8 +48,8 @@ There are directories you can use as Nuxt starter kits:
 * nuxt-fixed-transition-modes
 
 ## Vuex Resources
-[Vuex docs](https://vuex.vuejs.org/en/)
-[Vue Weather Notifier Demo](https://github.com/sdras/vue-weather-notifier)
+* [Vuex docs](https://vuex.vuejs.org/en/)
+* [Vue Weather Notifier Demo](https://github.com/sdras/vue-weather-notifier)
 
 There's a directory you can use as a Vuex starter kit:
 * vuex-example
