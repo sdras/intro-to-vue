@@ -9,6 +9,8 @@ Here are the [Vue chrome devtools](https://chrome.google.com/webstore/detail/vue
 
 Here is the codepen debugger [chrome extension](https://chrome.google.com/webstore/detail/codopen/agnkphdgffianchpipdbkeaclfbobaak)
 
+Here are the snippets I'll be using [vue sublime snippets](https://github.com/sdras/vue-sublime-snippets)
+
 For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
 ## Slides:
@@ -24,17 +26,20 @@ All slides have password `!vue!`
 
 ## Collections:
 * [Vue Workshop Materials Collection](https://codepen.io/collection/noYZxW/)
-* [Vue Collection](https://codepen.io/collection/XQGkeV/)
+* [Vue Animation Collection](https://codepen.io/collection/XQGkeV/)
 
 Included in this repo are some very basic starter kits. 
 
 ## VueCLI Resources
 [Vue-CLI](https://github.com/vuejs/vue-cli)
+[Wine Label Maker Demo](https://github.com/sdras/vue-wine-label)
+
 There's a directory you can use as a Vue-CLI starter kit:
 * setup1
 
 ## Nuxt Resources
 [Nuxt Docs](https://nuxtjs.org/)
+[Nuxt Type Demo](https://github.com/sdras/nuxt-type)
 
 There are directories you can use as Nuxt starter kits:
 * setup2
@@ -44,6 +49,7 @@ There are directories you can use as Nuxt starter kits:
 
 ## Vuex Resources
 [Vuex docs](https://vuex.vuejs.org/en/)
+[Vue Weather Notifier Demo](https://github.com/sdras/vue-weather-notifier)
 
 There's a directory you can use as a Vuex starter kit:
 * vuex-example
@@ -51,3 +57,9 @@ There's a directory you can use as a Vuex starter kit:
 Here are the directories for the Vuex exercise:
 * commentform-problem
 * commentform-solution
+
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
