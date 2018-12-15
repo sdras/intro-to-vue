@@ -1,6 +1,7 @@
 # [Introduction to Vue.js](https://frontendmasters.com/courses/vue/) Course Materials
 
-Starter Materials for Introduction to Vue.js Workshop
+Starter Materials for the Introduction to Vue.js Course
+
 Author: Sarah Drasner
 
 This repo houses the materials and resources for the [Introduction to Vue.js course](https://frontendmasters.com/courses/vue/) on Frontend Masters. 
