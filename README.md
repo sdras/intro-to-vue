@@ -1,9 +1,11 @@
-# Introduction to Vue Workshop Materials
+# [Introduction to Vue.js](https://frontendmasters.com/courses/vue/) Course Materials
 
 Starter Materials for Introduction to Vue.js Workshop
 Author: Sarah Drasner
 
-This repo houses the materials and resources for the Introduction to Vue.js. Most of the materials for the course are outlined below, but there are also directories housed here of very basic examples of some of the techniques we will cover so that students don't have to spend a lot of time researching in order to get started. It is recommended that students use CodePen to create work for the duration of the course, as we'll use preprocessors like SCSS as well as Babel for ES6, and resources like Vue.js, both prod and dev versions, codepen makes it easy to do so without time devoted to setup. If you like, you can also scroll to the CodePen collection section and fork one of the existing pens in those collections, they are comprehensive. There are more true-to-life build process examples, in the VueCLI, Nuxt, and Vuex Resource Sections. It's encouraged to watch the lecture to learn how to set up the builds yourself, though.
+This repo houses the materials and resources for the [Introduction to Vue.js course](https://frontendmasters.com/courses/vue/) on Frontend Masters. 
+
+Most of the materials for the course are outlined below, but there are also directories housed here of very basic examples of some of the techniques we will cover so that students don't have to spend a lot of time researching in order to get started. It is recommended that students use CodePen to create work for the duration of the course, as we'll use preprocessors like SCSS as well as Babel for ES6, and resources like Vue.js, both prod and dev versions, codepen makes it easy to do so without time devoted to setup. If you like, you can also scroll to the CodePen collection section and fork one of the existing pens in those collections, they are comprehensive. There are more true-to-life build process examples, in the VueCLI, Nuxt, and Vuex Resource Sections. It's encouraged to watch the lecture to learn how to set up the builds yourself, though.
 
 Here are the [Vue chrome devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 
