@@ -1,7 +1,7 @@
 <template>
   <section class="container">
     <div class="flexrow">
-      <div class="unit" v-for="unit in manifest">
+      <div class="unit" v-for="unit in manifest" :key="unit.item">
         <child :item="unit.item" :url="unit.url"></child>
       </div>
     </div>
