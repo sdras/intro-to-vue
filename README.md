@@ -17,6 +17,7 @@ Here are the snippets I'll be using [vue sublime snippets](https://github.com/sd
 For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
 ## Slides:
+**All slides have password `!vue!`**
 
 - [Intro to Vue 1: Directives & Data Rendering](http://slides.com/sdrasner/intro-to-vue-1?token=9-aFNhlX)
 - [Intro to Vue 2: Methods, Computed, Watchers](http://slides.com/sdrasner/intro-to-vue-2?token=502n2b7V)
@@ -27,7 +28,6 @@ For sections covering Nuxt, we will be using the directories listed in the Nuxt 
 - [Intro to Vue 6: Filters, Mixins, & Custom Directives](http://slides.com/sdrasner/intro-to-vue-6?token=fcL8qgTg)
 - [Intro to Vue 7: Vuex](http://slides.com/sdrasner/intro-to-vue-7?token=u9qUgRsW)
 
-All slides have password `!vue!`
 
 ## Collections:
 
