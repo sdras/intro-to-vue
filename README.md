@@ -16,6 +16,19 @@ Here are the snippets I'll be using [vue sublime snippets](https://github.com/sd
 
 For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
+# Materials for Vue 3 Course
+_this course has been updated in 2020 for the Vue3 release_
+
+## Slides:
+**All slides have password `!vue!`**
+
+- [Intro to Vue 1: Directives & Data Rendering](https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9)
+- [Intro to Vue 2: Methods, Computed, Watchers](http://slides.com/sdrasner/intro-to-vue-2?token=502n2b7V)
+
+---
+
+# Past Resources for Vue 2 Course
+
 ## Slides:
 **All slides have password `!vue!`**
 
