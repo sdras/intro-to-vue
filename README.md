@@ -26,11 +26,17 @@ _this course has been updated in 2020 for the Vue3 release_
 - [Intro to Vue 2: Methods, Computed, Watchers](https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR)
 - [Intro to Vue 3: Components and Slots](https://slides.com/sdrasner/intro-to-vue-3-3?token=NLsRwMvr)
 
+## License
+
+[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 ---
 
-# Past Resources for Vue 2 Course
+## Past Resources for Vue 2 Course
 
-## Slides:
+### Slides:
 **All slides have password `!vue!`**
 
 - [Intro to Vue 1: Directives & Data Rendering](http://slides.com/sdrasner/intro-to-vue-1?token=9-aFNhlX)
@@ -43,14 +49,14 @@ _this course has been updated in 2020 for the Vue3 release_
 - [Intro to Vue 7: Vuex](http://slides.com/sdrasner/intro-to-vue-7?token=u9qUgRsW)
 
 
-## Collections:
+### Collections:
 
 - [Vue Workshop Materials Collection](https://codepen.io/collection/noYZxW/)
 - [Vue Animation Collection](https://codepen.io/collection/XQGkeV/)
 
 Included in this repo are some very basic starter kits.
 
-## VueCLI Resources
+### VueCLI Resources
 
 - [Vue-CLI](https://github.com/vuejs/vue-cli)
 - [Wine Label Maker Demo](https://github.com/sdras/vue-wine-label)
@@ -59,7 +65,7 @@ There's a directory you can use as a Vue-CLI starter kit:
 
 - setup1
 
-## Nuxt Resources
+### Nuxt Resources
 
 - [Nuxt Docs](https://nuxtjs.org/)
 - [Nuxt Type Demo](https://github.com/sdras/nuxt-type)
@@ -71,7 +77,7 @@ There are directories you can use as Nuxt starter kits:
 - nuxt-js-animation-starter
 - nuxt-fixed-transition-modes
 
-## Vuex Resources
+### Vuex Resources
 
 - [Vuex docs](https://vuex.vuejs.org/en/)
 - [Vue Weather Notifier Demo](https://github.com/sdras/vue-weather-notifier)
@@ -84,9 +90,3 @@ Here are the directories for the Vuex exercise:
 
 - commentform-problem
 - commentform-solution
-
-## License
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)
-
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)
