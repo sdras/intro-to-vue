@@ -4,7 +4,7 @@
 
 ## Upcoming workshop live on Sept 23, 2020, [join here](https://frontendmasters.com/workshops/vue-v2/)
 
-[Vue 2 course available here.]((https://frontendmasters.com/courses/vue/)
+[Vue 2 course available here.](https://frontendmasters.com/courses/vue/)
 
 This repo houses the materials and resources for the Introduction to Vue.js course on Frontend Masters.
 
