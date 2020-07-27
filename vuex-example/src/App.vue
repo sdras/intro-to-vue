@@ -1,19 +1,24 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <div id="app">The counter amount is {{ counter }}</div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import AppGetter from "@/components/AppGetter.vue";
+import AppMutation from "@/components/AppMutation.vue";
+import AppAction from "@/components/AppAction.vue";
 
 export default {
-  name: 'App',
   components: {
-    HelloWorld
-  }
-}
+    AppGetter,
+    AppMutation,
+    AppAction,
+  },
+  computed: {
+    counter() {
+      return this.$store.state.counter;
+    },
+  },
+};
 </script>
 
 <style lang="scss">
