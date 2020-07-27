@@ -1,5 +1,10 @@
 <template>
-  <div id="app">The counter amount is {{ counter }}</div>
+  <main>
+    <div>The counter amount is {{ counter }}</div>
+    <app-getter></app-getter>
+    <app-mutation></app-mutation>
+    <app-action></app-action>
+  </main>
 </template>
 
 <script>
@@ -22,12 +27,17 @@ export default {
 </script>
 
 <style lang="scss">
-#app {
+main {
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+  font-size: 18px;
+}
+
+div {
+  margin: 20px 0;
 }
 </style>
