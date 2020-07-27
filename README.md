@@ -24,7 +24,8 @@ Most of the materials for the course are outlined below, but there are also dire
 - [Intro to Vue 1: Directives & Data Rendering](https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9)
 - [Intro to Vue 2: Methods, Computed, Watchers](https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR)
 - [Intro to Vue 3: Components and Slots](https://slides.com/sdrasner/intro-to-vue-3-3?token=NLsRwMvr)
-- [Intro to Vue 4: Vue CLI and Nuxt](https://slides.com/sdrasner/vue-animation-5-7775e7?token=0IQFDZvK)
+- [Intro to Vue 4: Vue CLI and Nuxt](https://slides.com/sdrasner/intro-to-vue-3-4?token=0IQFDZvK)
+- [Intro to Vue 7: Vuex](https://slides.com/sdrasner/intro-to-vue-3-7?token=YvT8ZUzV)
 
 _This course has been updated in 2020 for the Vue3 release, older materials for Vue 2 course available in the vue2-resources directory._
 
