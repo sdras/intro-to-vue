@@ -12,7 +12,7 @@ Most of the materials for the course are outlined below, but there are also dire
 
 - Here are the [Vue chrome devtools](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd?hl=en)
 - Here is the codepen debugger [chrome extension](https://chrome.google.com/webstore/detail/codopen/agnkphdgffianchpipdbkeaclfbobaak)
-- Here are the snippets I'll be using [vue sublime snippets](https://github.com/sdras/vue-sublime-snippets)
+- Here are the snippets I'll be using [vue vscode snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 - For sections covering Nuxt, we will be using the directories listed in the Nuxt section below as well as their directories, prefixed with `nuxt-` here.
 
 # Materials for Vue 3 Course
