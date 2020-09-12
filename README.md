@@ -21,6 +21,7 @@ Most of the materials for the course are outlined below, but there are also dire
 
 **All slides have password `!vue!`**
 
+- [Intro to Vue Intro](https://slides.com/sdrasner/deck?token=gsSM2n2V)
 - [Intro to Vue 1: Directives & Data Rendering](https://slides.com/sdrasner/intro-to-vue3-1?token=n3Yja_t9)
 - [Intro to Vue 2: Methods, Computed, Watchers](https://slides.com/sdrasner/intro-to-vue3-2?token=jgTfDndR)
 - [Intro to Vue 3: Components and Slots](https://slides.com/sdrasner/intro-to-vue-3-3?token=NLsRwMvr)
