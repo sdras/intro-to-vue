@@ -1,56 +1,63 @@
 <template>
   <div id="app">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-post-photo.jpg" class="main-photo">
-    <img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-main-profile.jpg" class="main-profile">
+    <img
+      src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-post-photo.jpg"
+      class="main-photo"
+    />
+    <img
+      src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/28963/vue-main-profile.jpg"
+      class="main-profile"
+    />
     <div class="main-info">
-      <span class="name">Julianne Delfina</span> 
+      <span class="name">Julianne Delfina</span>
       <h3>"It's lovely after it rains"</h3>
     </div>
-    <hr>
+    <hr />
     <ul>
-      <li
-        is="individual-comment"
+      <individual-comment
         v-for="comment in comments"
-        v-bind:commentpost="comment"
-      ></li>
+        :key="comment"
+        :commentpost="comment"
+      >
+      </individual-comment>
     </ul>
     <input
       v-model="newComment"
-      v-on:keyup.enter="addComment"
+      @keyup.enter="addComment"
       placeholder="Add a comment"
     />
   </div>
 </template>
 
 <script>
-import IndividualComment from './components/IndividualComment.vue';
+import IndividualComment from "./components/IndividualComment.vue"
 
 export default {
   components: {
-    IndividualComment
+    IndividualComment,
   },
   data() {
     return {
-      newComment: ''
+      newComment: "",
     }
   },
   computed: {
     comments() {
-      return this.$store.state.comments;
-    }
+      return this.$store.state.comments
+    },
   },
   methods: {
     addComment() {
-      this.$store.commit('addComment', this.newComment)
-      this.newComment = ''
+      this.$store.commit("addComment", this.newComment)
+      this.newComment = ""
     },
-  }
+  },
 }
 </script>
 
-<style>
+<style lang="scss">
 body {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   background: #888;
   margin: 0;
   padding: 0;
@@ -126,7 +133,7 @@ hr {
 }
 
 input {
-  font-family: 'Playfair Display', serif;
+  font-family: "Playfair Display", serif;
   width: 280px;
   margin: 30px 0;
   padding: 8px 10px;
@@ -143,5 +150,4 @@ input {
 .post-comment {
   margin: 0 0 5px 0;
 }
-
 </style>
