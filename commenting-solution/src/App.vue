@@ -14,23 +14,14 @@
     </div>
     <hr />
     <ul>
-      <individual-comment
-        v-for="comment in comments"
-        :key="comment"
-        :commentpost="comment"
-      >
-      </individual-comment>
+      <individual-comment v-for="comment in comments" :key="comment" :commentpost="comment"></individual-comment>
     </ul>
-    <input
-      v-model="newComment"
-      @keyup.enter="addComment"
-      placeholder="Add a comment"
-    />
+    <input v-model="newComment" @keyup.enter="addComment" placeholder="Add a comment" />
   </div>
 </template>
 
 <script>
-import IndividualComment from "./components/IndividualComment.vue"
+import IndividualComment from "./components/IndividualComment.vue";
 
 export default {
   components: {
@@ -39,28 +30,26 @@ export default {
   data() {
     return {
       newComment: "",
-    }
+    };
   },
   computed: {
     comments() {
-      return this.$store.state.comments
+      return this.$store.state.comments;
     },
   },
   methods: {
     addComment() {
-      this.$store.commit("addComment", this.newComment)
-      this.newComment = ""
+      this.$store.commit("addComment", this.newComment);
+      this.newComment = "";
     },
   },
-}
+};
 </script>
 
 <style lang="scss">
 body {
   font-family: "Playfair Display", serif;
   background: #888;
-  margin: 0;
-  padding: 0;
 }
 
 #app {
