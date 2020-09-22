@@ -16,6 +16,7 @@ Most of the materials for the course are outlined below, but there are also dire
 - Here is [Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) for VS Code
 - Here are the snippets I'll be using [vue vscode snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets)
 - Here is my [Vue Extension Pack for VS Code](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-extensionpack)
+- Here is the [hub tool](https://hub.github.com/) I use to work with GitHub from the command line
 
 # Materials for Vue 3 Course
 
