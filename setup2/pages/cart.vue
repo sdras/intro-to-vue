@@ -7,7 +7,9 @@
       <div v-else>
         <p>
           Your cart is empty, why not
-          <nuxt-link exact to="/" class="logo">fill it up with something?</nuxt-link>
+          <nuxt-link exact to="/" class="logo"
+            >fill it up with something?</nuxt-link
+          >
         </p>
       </div>
     </div>
