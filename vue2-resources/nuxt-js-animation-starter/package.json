@@ -5,7 +5,7 @@
   "author": "Sarah Drasner <sarah.drasner@gmail.com>",
   "private": true,
   "dependencies": {
-    "gsap": "^1.19.1",
+    "gsap": "^3.6.0",
     "nuxt": "latest"
   },
   "scripts": {
