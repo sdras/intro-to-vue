@@ -1,10 +1,8 @@
-# Introduction to Vue.js Course Materials
+# [Introduction to Vue.js 3 Course](https://frontendmasters.com/courses/vue-3/) Materials
 
 Author: Sarah Drasner
 
-## Upcoming workshop live on Sept 23, 2020, [join here](https://frontendmasters.com/workshops/vue-v2/)
-
-[Vue 2 course available here.](https://frontendmasters.com/courses/vue/)
+FYI The previous version [Vue 2 course is available here.](https://frontendmasters.com/courses/vue/)
 
 This repo houses the materials and resources for the Introduction to Vue.js course on Frontend Masters.
 
